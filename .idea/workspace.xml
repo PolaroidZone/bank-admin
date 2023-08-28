@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36636121-34cd-4a8d-bc2d-531a666c6f69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bank-admin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Login.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewAccount.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin/AdminSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin/CreateAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin/GetAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructer/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructer/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/databse/DatabaseConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generator/UniqueNumberGenerator.java" afterDir="false" />
-    </list>
+    <list default="true" id="36636121-34cd-4a8d-bc2d-531a666c6f69" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
